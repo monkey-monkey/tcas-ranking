@@ -1,15 +1,10 @@
 # TH : TCAS Ranking
 
-TCAS ranking algorithm.
+TCAS ranking algorithm. Feel free to open PR for improve my code.
 
 ## Authors
 
 [Nacnano](https://github.com/orgs/monkey-monkey/people/Nacnano)
-
-## Supervisor
-
-[NuttapongPun](https://github.com/orgs/monkey-monkey/people/NuttapongPun)
-[chutipon29301](https://github.com/orgs/monkey-monkey/people/chutipon29301)
 
 ## License
 
