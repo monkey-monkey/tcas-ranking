@@ -4,7 +4,7 @@ TCAS ranking algorithm. Feel free to open PR for improve my code.
 
 ## Authors
 
-[Nacnano](https://github.com/orgs/monkey-monkey/people/Nacnano)
+[Nacnano](https://github.com/Nacnano)
 
 ## License
 
